@@ -45,7 +45,7 @@ There after it will run all the test cases to the Problem 1 and Problem 2.
 
 
 ## Converted Video in Problem 3
+![](output-problem-3.mp4)
 
 
-https://user-images.githubusercontent.com/69113578/221354032-3281c780-bd55-4a40-8a69-8d76c6b362f4.mp4
 
