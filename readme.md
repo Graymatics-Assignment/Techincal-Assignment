@@ -34,6 +34,10 @@ Example:
   * { [ ( ) ] } should return true
 
 
+
+
+
+
 # Problem 3
 Given a short video, (use your own > 60 second video), use OpenCV to clip a 5 second clip from the 00:30 mark to the 00:35 mark and draw a red 100 x 100 pixel sized box in the middle of the video.
 
@@ -42,10 +46,6 @@ Given a short video, (use your own > 60 second video), use OpenCV to clip a 5 se
 When you run the problemsMain.py file it will first execute the Problem 3 solution by displaying the clip and generated rectangle and also saves the resultant clip as output-problem-3.mp4 file in the project folder.
 
 There after it will run all the test cases to the Problem 1 and Problem 2.
-
-
-## Converted Video in Problem 3
-![](output-problem-3.mp4)
 
 
 
